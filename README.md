@@ -1,2 +1,2 @@
 # DekkerLock
-Computación Concurrente
+* Computación Concurrente
